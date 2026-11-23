@@ -31,4 +31,3 @@ An interactive Power BI dashboard exploring the Harry Potter movie franchise acr
 ## Tools & Skills Used
 * **Power BI Desktop** (Data Modeling, Interactive Visualizations, Custom Theme & Visual Hierarchy)
 * **Power Query** (Data Cleaning & Transformation)
-* **DAX** (Calculated Measures & Aggregations)
