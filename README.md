@@ -6,7 +6,7 @@ An interactive Power BI dashboard exploring the Harry Potter movie franchise acr
 
 ## Business Questions
 * How did production budgets and box office revenues evolve from the first film to the finale?
-* Which characters have the most lines, and how does their dialogue share shift across the series?
+* Which characters have the most lines, and how does their dialogue share shift across the movies?
 * Which spells and key locations appear most frequently throughout the franchise?
 
 ## Key Insights
