@@ -24,7 +24,7 @@ An interactive Power BI dashboard exploring the Harry Potter movie franchise acr
 * **Interactive Slicers:** Filter the entire report dynamically by *Character Name*, *Release Year*, *House*, and *Gender*.
 
 ## Data & Preparation
-* **Source:** Harry Potter Movies Dataset (Maven Analytics).
+* **Source:** Harry Potter Movies Dataset on Kaggle.
 * **Data Cleaning (Power Query):** Removed currency symbols (`$`) and formatting characters from financial columns in the *Movies* table using value replacement, promoted headers, configured proper numeric and text data types, and created a custom column in the *Dialogue* table.
 
 * **Data Modeling:** Configured one-to-many relationships between lookup tables (characters, movies, locations) and fact tables.
